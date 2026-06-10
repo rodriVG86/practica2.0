@@ -1,4 +1,4 @@
-# Práctica 2: Control de Versiones con Git y GitHub
+# Práctica 2
 
 ## 🎯 Objetivo del Proyecto
 El objetivo principal de esta práctica es implementar y dominar un flujo de trabajo colaborativo profesional mediante Git y GitHub. Se enfoca en la asignación estratégica de roles dentro de un equipo de desarrollo, el despliegue de un proyecto web estructurado, la revisión de código mediante Pull Requests y la resolución controlada de conflictos de fusión (merge conflicts).
