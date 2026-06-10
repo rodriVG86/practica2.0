@@ -1,11 +1,11 @@
 # Práctica 2
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 El objetivo principal de esta práctica es implementar y dominar un flujo de trabajo colaborativo profesional mediante Git y GitHub. Se enfoca en la asignación estratégica de roles dentro de un equipo de desarrollo, el despliegue de un proyecto web estructurado, la revisión de código mediante Pull Requests y la resolución controlada de conflictos de fusión (merge conflicts).
 
 ---
 
-## 👥 Integrantes y Roles
+##  Integrantes y Roles
 * **Rodrigo** - **Líder de Proyecto** (Coordinación general, administración del repositorio y revisión/aprobación de código).
 * **Estefany** - **Diseñador UI/UX** (Responsable del diseño visual, estilos CSS y maquetación responsiva en la rama correspondiente).
 * **Raúl** - **Integrador Git** (Encargado de la gestión de ramas, fusiones de código y la resolución técnica de conflictos).
@@ -13,7 +13,7 @@ El objetivo principal de esta práctica es implementar y dominar un flujo de tra
 
 ---
 
-## 🔄 Flujo de Trabajo Usado
+##  Flujo de Trabajo Usado
 Para este proyecto implementamos el modelo **Feature Branch Workflow** (Flujo de trabajo basado en ramas por característica), asegurando que la línea principal de producción se mantuviera siempre estable.
 
 ### 1. Arquitectura de Ramas (Brazos)
